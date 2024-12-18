@@ -1,0 +1,51 @@
+h1,h2{
+    color: blueviolet;
+}
+
+h3{
+    color: aquamarine;
+}
+
+h3.good{
+    color: red;
+}
+
+.mm div{
+    color: brown;
+}
+
+.mm  div div h1{
+    color:rgb(245, 10, 135) ;
+}
+
+.mm  div div p{
+    color:rgb(10, 41, 245) ;
+}
+
+.bg{
+    height: 800px;
+    width: 800px;
+    background:red url("../Style/app.CSS") no-repeat fixed center;
+}
+
+.hm{
+    background-color: #f80000;
+    color: white;
+    border: 5px solid aqua;
+}
+
+#border{
+    width: 100px;
+    height: 100px;
+    border: 5px solid rgb(255, 8, 136);
+    border-radius: 20px;
+}
+
+.margin{
+    width: 100px;
+    height: 100px;
+    border: 5px solid red;
+    height: 100px;
+    margin: 30px;
+}
+
